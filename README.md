@@ -1,2 +1,2 @@
 # Iboss-disabler-for-school
-This program will make Iboss not run so you can play all the games you want at school (This is a prototype file) 
+This File contains the ability to disable IBOSS which is a extension that blocks games. Use this with caution because your school administrator might discover it so use with caution. This program is ment for school so use wisely. So yeah this is a project im working on for students. Also to any teacher reading this don't try and get this file or github.com blocked because I will reupload the file on other sites yours truly, ourmatertate.
